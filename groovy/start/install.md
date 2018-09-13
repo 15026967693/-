@@ -1,4 +1,4 @@
-# p style="text-align:left;">安装Groovy</p>
+# <p style="text-align:left;">安装Groovy</p>
 
 ### 1.下载
 在这块下载区域,您能够下载发布版(二进制版和源码版)、窗口安装程序和Groovy文档。
