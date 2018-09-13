@@ -1,6 +1,6 @@
-#<p style="text-align:left;">安装Groovy</p>
+# p style="text-align:left;">安装Groovy</p>
 
-###1.下载
+### 1.下载
 在这块下载区域,您能够下载发布版(二进制版和源码版)、窗口安装程序和Groovy文档。
  
  为了快速便捷的在Mac OSX,Linux或者Cygwin系统上面使用,您能够使用[SDKMAN!](https://sdkman.io/)(软件开发工具管理工具)下载和设置任何您选择的groovy版本。您能够在下面找到基本的<a href="#SDKMAN">说明</a>。
@@ -17,7 +17,7 @@
  
  如果您打算使用动态执行支持,[请阅读这些说明](http://docs.groovy-lang.org/latest/html/documentation/invokedynamic-support.html)
  
-###1.2.快照(未测试版)
+### 1.2.快照(未测试版)
  
  对于那些想要测试最终版本的Groovy和想要挑战自己的人,你能够使用我们的快照版本。一旦一次创建在我们的持续集成服务器上面成功了一个快照版本就被发布到 Artifactory的OSS快照仓库.。
  
