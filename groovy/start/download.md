@@ -1,5 +1,5 @@
-#下载groovy
-###获得Apach Groovy的方法
+# 下载groovy
+### 获得Apach Groovy的方法
 * 下载源码或者[二进制版](http://www.groovy-lang.org/download.html#distro)
 
 * 使用您操作系统上的[包管理工具](http://www.groovy-lang.org/download.html#osinstall)
