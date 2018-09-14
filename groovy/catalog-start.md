@@ -3,7 +3,7 @@
 
 *  [安装groovy](./start/install.md)
 
-* 与Java的不同点
+* [与Java的不同点](./start/javadiff.md)
 
 * Groovy开发工具
 
