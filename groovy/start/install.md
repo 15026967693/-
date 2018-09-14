@@ -115,11 +115,11 @@ brew install groovy
 
 * 首先,[下载]()一个Groovy二进制发行版并将他解压缩到您的本地文件系统的任意位置。
 
-* 配置一个<span style="background-color:#F9F2F4;color:#DB384E">*** GROOVY_HOME***</span>环境变量并设置为你解压的发型版的目录。
+* 配置一个GROOVY_HOME环境变量并设置为你解压的发型版的目录。
 
-* 增加<span style="background-color:#F9F2F4;color:#DB384E"">***GROOVY_HOME/bin***</span>(请根据自己的操作系统自行修改GROOVY_HOME,例如:windows为%GROOVY_HOME%,类Unix系统为$GROOVY_HOME)到您的<span style="background-color:#F9F2F4;color:#DB384E"">***PATH***</span>环境变量中。
+* 增加GROOVY_HOME/bin(请根据自己的操作系统自行修改GROOVY_HOME,例如:windows为%GROOVY_HOME%,类Unix系统为$GROOVY_HOME)到您的PATH环境变量中。
 
- * 设置您的<span style="background-color:#F9F2F4;color:#DB384E"">***JAVA_HOME***</span>变量指向您的JDK。在OS X这是<span style="background-color:#F9F2F4;color:#DB384E"">***/Library/Java/Home***</span>,在其他unixes系统上他经常是<span style="background-color:#F9F2F4;color:#DB384E"">***/usr/java***</span>,这里不一一列举了。如果您已经安装了类似Ant或者Maven的工具您可能已经完成了这个步骤。
+ * 设置您的JAVA_HOME变量指向您的JDK。在OS X这是/Library/Java/Home,在其他unixes系统上他经常是/usr/java,这里不一一列举了。如果您已经安装了类似Ant或者Maven的工具您可能已经完成了这个步骤。
  
  您现在应该已经装好了Groovy。您能够在命令行shell里粘贴下面的命令测试
  
