@@ -101,7 +101,7 @@ new File(baseDir,'haiku.txt').withWriter('utf-8') { writer ->
 }
 ```
 
-但是对于这样一个简单的例子,使用**<<**操作符就足够了:
+但是对于这样一个简单的例子,使用<<操作符就足够了:
 
 ``` groovy
 new File(baseDir,'haiku.txt') << '''Into the ancient pond
