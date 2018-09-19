@@ -5,7 +5,7 @@
 
 * [与Java的不同点](./start/javadiff.md)
 
-* Groovy开发工具
+* [Groovy开发工具](./start/GDK.md)
 
 * 运行时和编译时元编程
 
