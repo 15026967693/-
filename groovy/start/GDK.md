@@ -101,7 +101,7 @@ new File(baseDir,'haiku.txt').withWriter('utf-8') { writer ->
 }
 ```
 
-但是对于这样一个简单的例子,使用**<<**操作符就足够了:
+但是对于这样一个简单的例子,使用<<操作符就足够了:
 
 ``` groovy
 new File(baseDir,'haiku.txt') << '''Into the ancient pond
@@ -661,6 +661,7 @@ assert Collections.nCopies(2, [1, 2]) == [[1, 2], [1, 2]] //不是 [1,2,1,2]
 
 
 ```
+<<<<<<< HEAD
 
 ### 2.2.Map
 #### 2.2.1.Map字面量
@@ -1630,7 +1631,7 @@ assert properties."app.name" == 'Test42'
 
 ```
 ##### 5.2.Expando
-Expando类能够被用来创建一个动态的可扩展对象。尽管他的名字不再之后使用ExpandoMetaClass。每个Expando对象表现为一个可以再运行时扩展属性（或方法的）独立的，可动态制作的实例。
+Expando类能够被用来创建一个动态的可扩展对象。尽管他的名字不用ExpandoMetaClass。每个Expando对象表现为一个可以再运行时扩展属性（或方法的）独立的，可动态制作的实例。
 ``` groovy
 
 
